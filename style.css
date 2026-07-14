@@ -317,6 +317,7 @@ main,
   border-radius: 999px;
   box-shadow: 0 12px 44px rgba(182, 255, 59, 0.22);
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease, background 180ms ease;
+  z-index: 5;
 }
 
 .button:hover,
