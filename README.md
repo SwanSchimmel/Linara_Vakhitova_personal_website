@@ -17,7 +17,3 @@ Open index.html in a browser or view via GitHub Pages once enabled.
 - Maintaining clear structure and branding  
 - Responsive design across screen sizes  
 - Writing clean front-end code for a portfolio
-
-🔜 Next steps  
-- Add accessibility improvements (aria-labels, alt-text)  
-- Optimize performance (minification, image compression)
